@@ -4,6 +4,7 @@ Image Processing software code for the CubeSat Galassia II
 ## Major libraries used in the project:
 - OpenCV 3.4.1
 - GDAL 2.2.2
+- Test
 
 ## Prerequisites:
 - Windows 10, 8.1, 7, Linux, or MacOS
