@@ -8,7 +8,7 @@ Image Processing software code for the CubeSat Galassia II
 ## Prerequisites:
 - Windows 10, 8.1, 7, Linux, or MacOS
 - Visual Studio 2017 or Visual Studio 2015 Update 3 (on Windows)
-- Git
+- Github
 - Optional: CMake 3.10.2
 
 ## Installing libraries
