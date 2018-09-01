@@ -31,6 +31,9 @@ To install the libraries, install via packages with
 PS> .\vcpkg install opencv:x64-windows
 Ubuntu:~/$ ./vcpkg install opencv:x64-windows
 
+PS> .\vcpkg install opencv[contrib]:x64-windows
+Ubuntu:~/$ ./vcpkg install opencv[contrib]:x64-windows
+
 PS> .\vcpkg install gdal:x64-windows
 Ubuntu:~/$ ./vcpkg install gdal:x64-windows
 ```
