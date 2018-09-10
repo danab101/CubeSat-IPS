@@ -1,5 +1,1 @@
-{type: 'FeatureCollection',features: [{type: 'Feature',"geometry": { "type": "Point", "coordinates": [-77.03, 38.90]},
-"properties": {'title': 'Washington, D.C.','marker-color': '#3c4e5a','marker-symbol': 'monument','marker-size': 'large',
-'images': [['https://i.imgur.com/O6QEpBs.jpg','The U.S. Capitol after the burning of Washington during the War of 1812'],
-['https://i.imgur.com/xND1MND.jpg','Ford\'s Theatre in the 19th century, site of the 1865 assassination of President Lincoln'],
-['https://i.imgur.com/EKJmqui.jpg','The National Cherry Blossom Festival is celebrated around the city each spring.']]}}}]}
+{type: 'FeatureCollection',features: [{type: 'Feature',"geometry": { "type": "Point", "coordinates": [-77.03, 38.90]},"properties": {'title': 'Washington, D.C.','marker-color': '#3c4e5a','marker-symbol': 'monument','marker-size': 'large','images': [['https://i.imgur.com/O6QEpBs.jpg','The U.S. Capitol after the burning of Washington during the War of 1812'],['https://i.imgur.com/xND1MND.jpg','Ford\'s Theatre in the 19th century, site of the 1865 assassination of President Lincoln'],['https://i.imgur.com/EKJmqui.jpg','The National Cherry Blossom Festival is celebrated around the city each spring.']]}}}]}
