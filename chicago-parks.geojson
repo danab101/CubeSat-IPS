@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lincoln Park",
-        "description": "A northside park that is home to the Lincoln Park Zoo"
+        "description": "A northside park that is home to the Lincoln Park Zoo",
         "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
       },
       "geometry": {
