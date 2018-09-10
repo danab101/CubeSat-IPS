@@ -4,8 +4,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lincoln Park",
-        "description": "A northside park that is home to the Lincoln Park Zoo",
-        "images": ['https://i.imgur.com/O6QEpBs.jpg','The U.S. Capitol after the burning of Washington during the War of 1812']
+        "description": "A northside park that is home to the Lincoln Park Zoo"
       },
       "geometry": {
         "coordinates": [
