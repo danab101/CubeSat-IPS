@@ -1,0 +1,41 @@
+{
+  type: 'FeatureCollection',
+  features: [{
+      type: 'Feature',
+      "geometry": { "type": "Point", "coordinates": [-77.03, 38.90]}, //(W,N)
+      "properties": {
+          'title': 'Washington',
+          'marker-color': '#06697e',
+        //  'marker-symbol': 'monument',
+
+          // Store the image url and caption in an array.
+          'images': [
+            ['https://cdn.shopify.com/s/files/1/0764/6941/products/National-Mall-DC_4_3_Zoom_1024x1024.jpg?v=1499809554','<p>Click to download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p>'],
+          ]
+      }
+  },{
+      type: 'Feature',
+      "geometry": { "type": "Point", "coordinates": [-71.059, 42.36]},
+      "properties": {
+          'title': 'Boston',
+          'marker-color': '#06697e',
+         // 'marker-symbol': 'monument',
+
+          // Store the image url and caption in an array.
+          'images': [
+            ['http://soileiragusgonta.com/wp-content/uploads/2018/04/satellite-map-images-12-generating-realistic-imagery-with-deep-neural-networks.jpg','<p>Click to download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p>'],
+          ]
+      }
+  }, {
+      type: 'Feature',
+      "geometry": { "type": "Point", "coordinates": [-74.00, 40.71]},
+      "properties": {
+          'title': 'New York City',
+          'marker-color': '#06697e',
+          'images': [
+            ['https://cdn.shopify.com/s/files/1/0764/6941/products/Buffalo_NY8_Zoom_1024x1024.jpg?v=1499265172','<p>Click to download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p>'],
+          ]
+
+      }
+  }]
+}
