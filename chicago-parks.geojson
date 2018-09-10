@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lincoln Park",
-        "description": "A northside park that is home to the Lincoln Park Zoo",
+        "description": '<p>Click to download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p>',
         "image": "https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
       },
       "geometry": {
