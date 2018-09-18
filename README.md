@@ -39,3 +39,31 @@ Ubuntu:~/$ ./vcpkg install gdal:x64-windows
 ```
 
 Once these commands are implemented, all installed libraries are immediately ready to be #include'd into the Visual Studio project and used without additional configuration.
+
+## External Accounts 
+
+Gmail: 
+This gmail account can be used wherever you want to sign up to download/use any online software for this project. At the moment, this account is being used to maintain a user account in Mapbox. 
+
+```
+Username - galassia2cubesat@gmail.com
+Password - satellite
+```
+
+Mapbox:
+
+```
+Username: galassia2
+Password: satellite
+```
+
+Mapbox API Access Token:
+
+
+```
+Token name: AWS
+Token key: sk.eyJ1IjoiZ2FsYXNzaWEyIiwiYSI6ImNqbTdrc2tlbjF3amkzcW11OGxrN3NsaXcifQ.nAfWHNtfOwwOqphKKAtBFA
+```
+
+
+
