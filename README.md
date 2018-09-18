@@ -61,8 +61,8 @@ Mapbox API Access Token:
 
 
 ```
-Token name: AWS
-Token key: sk.eyJ1IjoiZ2FsYXNzaWEyIiwiYSI6ImNqbTdrc2tlbjF3amkzcW11OGxrN3NsaXcifQ.nAfWHNtfOwwOqphKKAtBFA
+Token name: GeoTIFF_upload
+Token key: sk.eyJ1IjoiZ2FsYXNzaWEyIiwiYSI6ImNqbTdtaHN1MDF4NTEza211Z3R0cXk3cHQifQ.vKkHq684k_vLW0lNMKYvag
 ```
 
 
