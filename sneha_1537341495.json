@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "out",
+"features": [
+{ "type": "Feature", "properties": { "size": "14.080, 13.800", "time": "2017-09-05 01:08:17UTC"}, "geometry": { "type": "Point", "coordinates": [ -87.255000, 42.77880000 ]  } }
+]
+}
