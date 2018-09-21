@@ -1,1 +1,1 @@
-{"features": [{"geometry": {"coordinates": [139.8834534792938, 35.50398574934976], "type": "Point"}, "properties": {"co-ordinates": "35.5039857493, 139.883453479", "name": "Tokyo", "size": "0.359955596553", "time": "None"}, "type": "Feature"}], "name": "Tokyo", "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [139.8834534792938, 35.50398574934976], "type": "Point"}, "properties": {"co-ordinates": "35.504, 139.883", "name": "Tokyo", "size": "0.359955596553", "time": "None"}, "type": "Feature"}], "name": "Tokyo", "type": "FeatureCollection"}
