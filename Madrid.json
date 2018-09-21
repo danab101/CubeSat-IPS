@@ -1,1 +1,1 @@
-{"features": [{"geometry": {"coordinates": [-3.648241432294136, 40.408409477141966], "type": "Point"}, "properties": {"co-ordinates": "-3.648, 40.408", "name": "Madrid", "size": "0.359955596553", "time": "None"}, "type": "Feature"}], "name": "Madrid", "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [-3.648241432294136, 40.408409477141966], "type": "Point"}, "properties": {"co-ordinates": "40.408 N, 3.648 W", "name": "Madrid", "size": "0.359955596553", "time": "None"}, "type": "Feature"}], "name": "Madrid", "type": "FeatureCollection"}
