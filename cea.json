@@ -1,1 +1,1 @@
-{"features": [{"geometry": {"coordinates": [-117.64173296302481, 33.943831396989076], "type": "Point"}, "properties": {"co-ordinates": "33.943831397, -117.641732963", "name": "cea", "size": "953659315.419", "time": "None"}, "type": "Feature"}], "name": "cea", "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [-117.47524355763619, 33.804288512839484], "type": "Point"}, "properties": {"co-ordinates": "33.8042885128, -117.475243558", "name": "cea", "size": "953659315.419", "time": "None"}, "type": "Feature"}], "name": "cea", "type": "FeatureCollection"}
