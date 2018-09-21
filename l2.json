@@ -1,1 +1,1 @@
-{"features": [{"geometry": {"coordinates": [-47.48712827929464, -15.562712165426882], "type": "Point"}, "properties": {"co-ordinates": "-15.563, -47.487", "name": "l2", "size": "194304000.0", "time": "2017-09-05 01:08:17UTC"}, "type": "Feature"}], "name": "l2", "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [-47.48712827929464, -15.562712165426882], "type": "Point"}, "properties": {"co-ordinates": "15.563S, 47.487W", "name": "l2", "size": "194304000.0", "time": "2017-09-05 01:08:17UTC"}, "type": "Feature"}], "name": "l2", "type": "FeatureCollection"}
