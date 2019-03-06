@@ -1,0 +1,103 @@
+places = {
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='https://www.geoimage.com.au/images/Galleries/Landsat8/130211_TECH_landsat_DeathValley.jpg.CROP.original-original.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",
+            "sat": "LandSat8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.038659, 38.931567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='https://www.geoimage.com.au/images/Galleries/Landsat8/130211_TECH_landsat_DeathValley.jpg.CROP.original-original.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",           
+            "sat": "LandSat8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.003168, 38.894651]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='https://www.geoimage.com.au/images/Galleries/Landsat8/746503main_paluweh_oli_2013119_geo-crop_l8.jpg' width='350' height='300'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",           
+            "sat": "LandSat8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.003168, 38.894651]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",            
+            "sat": "SPOT 6-7"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.090372, 40.881189]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",            
+            "sat": "Galassia 2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.052477, 42.943951]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",
+            "sat": "Cartosat-2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.031706, 40.914581]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='https://wp-cdn.apollomapping.com/wp-content/plugins/doptg/uploads/thumbs/jkpjwO5xwjrYksKsNXejTgrYjLaK7ANec58pBnSb2ZYX6cgGfZhLFshQBQPQAHLMs.jpg' width='350' height='300'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",
+            "sat": "IKONOS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.020945, 38.378241]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='http://blogs.esa.int/eolaunches/files/2015/06/True-Colour-subset-Milano-Full-res-Final-no-layers.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div",
+            "sat": "Sentinel-2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.020945, 38.878241]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#06697e",
+            "description": "<div class='caption-img'><img src='http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg' width='350' height='350'/></div><div class='caption-text'> <p>Download <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">GeoTiff</a> - Show <a href=\"http://blogs.esa.int/eolaunches/files/2015/06/First-image-full-swath-RGB-cut-reduced.jpg\" target=\"_blank\" title=\"Opens in a new window\">FullScreen</a></p><p><strong>Date Taken: </strong> 2018-03-09 <strong>  Time Taken: </strong> 16:05:07 </p><p><strong>Position:  </strong> [-74.00, 40.71] </p><p><strong>Physical Size:</strong> 2000x2000km </p></div>",
+            "sat": "Sentinel-2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.17481, 38.876516]
+        }
+    }]
+};
